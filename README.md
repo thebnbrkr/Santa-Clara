@@ -3,6 +3,4 @@ This is my attempt in creating a software to solve math problems. This project i
 <br/>
 <br/>
 
-Hope you like my project. This project is under development; it's in beta.
-
  
